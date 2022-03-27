@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newspace/static/css/main.a99299c8.css",
+    "main.js": "/newspace/static/js/main.7958cb68.js",
+    "static/js/787.fb827132.chunk.js": "/newspace/static/js/787.fb827132.chunk.js",
+    "static/media/defaultImg.png": "/newspace/static/media/defaultImg.1fbac9903eff2e4b8430.png",
+    "index.html": "/newspace/index.html",
+    "main.a99299c8.css.map": "/newspace/static/css/main.a99299c8.css.map",
+    "main.7958cb68.js.map": "/newspace/static/js/main.7958cb68.js.map",
+    "787.fb827132.chunk.js.map": "/newspace/static/js/787.fb827132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a99299c8.css",
+    "static/js/main.7958cb68.js"
+  ]
+}
